@@ -1,0 +1,240 @@
+.design_problem{
+    
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.header_length{ /* Nav Block Settings */
+    
+    /*width: 100%;*/
+    height: 100px;
+	
+	padding-left:50%;
+    background-color:#3b5998;
+    
+}
+
+.section_length{ /* Nav Block Settings */
+    
+   /* width:100%;*/
+    height:500px;
+    background:-webkit-linear-gradient(white,lightgray); 
+	padding-left:50%; 
+    background-attachment: fixed ;
+}
+
+
+.facebook{
+    
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 40px ;
+    font-weight: 700;
+    color:white ;
+	
+	margin-left:-650px;
+	padding:40px;
+}
+
+.create_button{
+	
+	position:absolute ;
+	top:50px;
+	
+	width :150px ; 
+	height:30px ;
+	
+	margin-left:-427px ;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+	font-size: 13px ;
+	font-weight:500; 
+	color:white;
+	
+	
+	border-style:solid;
+	border-color:#42b72a;
+	background-color:#42b72a;
+
+}
+
+.pos_div{
+	
+	position:absolute;
+	top:200px;
+	
+	margin-left:-400px;
+	
+	width:612px;
+	height:301px;
+	
+	background-color:white;
+	
+	border-style:solid;
+	border-color:#e6e6e6;
+    border-width:1px;
+	
+}
+.account_head{
+	
+    margin-top:30px;	
+
+	text-align:center;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+	font-size:20px;
+	font-weight:500;
+	
+}
+
+.email_box{
+    
+    width:290px;
+    height:30px;
+    
+	margin-left:30px;
+    margin-top: 20px;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif ;
+	text-indent:10px;
+}
+
+.password_box{
+	
+	width:290px;
+    height:30px;
+    
+	margin-left:30px;
+    margin-top: 20px;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif ;
+	text-indent:10px;
+}
+
+.Log_in_button{
+	
+	width :290px; 
+	height:42px;
+	
+	margin-left:30px;
+    margin-top: 20px;
+	margin-bottom:10px;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size: 15px ;
+	font-weight:500; 
+	color:white;
+	
+	border-style:solid;
+	border-color:#4267b2;
+	background-color:#4267b2;
+
+}
+
+.info_link{
+	
+	color:#4267b2;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size: 12px ;
+	font-weight:400;
+	
+	margin-left:30px;
+    margin-top: 20px;
+	
+}
+
+.not_now{
+	
+	color:#4267b2;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size: 15px ;
+	font-weight:400;
+	
+	margin-left:30px;
+    margin-top: 20px;
+	
+	
+}
+
+.language{
+	
+	padding-left:50%;
+	
+	padding-bottom:40px;
+	
+	margin-top:60px;
+	margin-left:-650px;/*300px*/
+	margin-bottom:40px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+    font-size: 13px ;
+    font-weight: 100;
+}
+
+.blank_1{
+	
+	padding-left:4px;
+	 color:#385898;
+}
+
+.plus{
+	
+	position:absolute ;
+	top:652px; 
+    	
+	margin-left:720px;
+
+	width:40px;
+	height:25px;
+	
+	background-color:white;
+	
+	border-style:solid ;
+	border-width:1px;
+	border-color:#ccc; 
+	
+    font-size: 20px ;
+    font-weight:500;
+	
+}
+
+
+.foot_hori{
+	
+	margin-top:20px;
+	margin-left:0px;
+	margin-bottom:20px;
+	
+	padding-left:500px;
+	
+	width:30% ;
+}
+
+.foot{
+	
+	position:absolute;
+    top:705px;
+	
+	padding-left:50%;
+	padding-bottom:40px;
+	
+	margin-left:-665px;/*300px*/
+	margin-bottom:40px;
+	
+}
+
+.blank{
+		
+     font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 13px ;
+    font-weight: 100;	
+		
+	 color:#385898;	
+		
+	padding-left:20px;
+	margin-bottom:10px;
+}
+
+

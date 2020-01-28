@@ -1,0 +1,486 @@
+.design_problem{ /* body design problem */
+	
+	padding:0px ;
+	margin:0px;
+}
+
+/* ---------- */
+   
+.header_length{
+	
+	height:80px;
+	
+	padding-left:50%;
+	
+}
+
+#header{
+	 	 
+	 background-color:transparent;	
+}
+
+.header_logo{
+	
+	position:absolute;
+	top:20px;
+	
+	margin-left:-600px;
+	
+}
+
+.button{
+	
+	position:absolute;
+	top:20px;
+	
+	width:100px;
+	height:40px;
+	
+	border-style:solid;
+	border-color:transparent;
+	border-width:1px;
+	
+	background-color:transparent;
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:17px;
+	font-weight:700;
+	
+	color:#fff;
+}
+
+#Pre{
+	
+	margin-left:210px;
+}
+
+#Help{
+	
+	margin-left:325px;
+}
+
+#Down{
+	
+   margin-left:440px;	
+ 
+}
+
+#Sign{
+	
+	margin-left:555px;
+
+}
+
+#Log{
+	
+	margin-left:670px;
+
+}
+	
+#Pre:hover{
+
+   color:#1DB954;
+}
+
+#Help:hover{
+
+   color:#1DB954;
+} 	
+
+#Down:hover{
+
+   color:#1DB954;
+} 	
+
+#Sign:hover{
+
+   color:#1DB954;
+} 	
+
+#Log:hover{
+
+   color:#1DB954;
+} 	
+ 	
+	
+  
+/* ---------- */
+
+.section_length{ /* section setting */
+	
+	margin-top:-100px;
+	
+	height:775px;
+	
+	padding-left:50%; /* !important */
+	
+	background-color:#F037A5;
+	background:-webkit-gradient(linear,left top, left bottom ,color-stop(-60%,#F037A5),color-stop(140%,FAE62D)) ;
+	background:linear-gradient(#F037A5 -60%,#FAE62D 140%) ;
+}
+
+.circle_section{
+	
+
+	margin-left:-420px;
+	
+	width:780px;
+	height:780px;
+	
+	border-radius:395px;
+	font-size:600px;
+	
+	background-color:#F037A5;
+	background:-webkit-gradient(linear,left top,left bottom ,color-stop(140%,FAE62D), color-stop(-60%,#F037A5)) ;
+	background:linear-gradient(#FAE62D -60%,#F037A5 140%) ;	
+}
+
+.headphone_circle{
+	
+    position:absolute;
+	top:150px;
+	
+	margin-left:365px;
+	
+	width:200px;
+	height:380px;
+	
+	border-top-right-radius:100px;
+	border-bottom-right-radius:100px;
+	font-size:600px;
+	
+	background-color:#F037A5;
+	background:-webkit-gradient(linear,left top,left bottom ,color-stop(140%,FAE62D), color-stop(-60%,#F037A5)) ;
+	background:linear-gradient(#FAE62D -60%,#F037A5 140%) ;	
+	
+}
+
+.headphone_circle_2{
+	
+	position:absolute;
+	top:150px;
+	
+	margin-left:-625px;
+	
+	width:200px;
+	height:380px;
+	
+	border-top-left-radius:100px;
+	border-bottom-left-radius:100px;
+	font-size:600px;
+	
+	background-color:#F037A5;
+	background:-webkit-gradient(linear,left top,left bottom ,color-stop(140%,FAE62D), color-stop(-60%,#F037A5)) ;
+	background:linear-gradient(#FAE62D -60%,#F037A5 140%) ;
+	
+}
+
+
+
+
+.everyone_info{ /* font style , position */
+	
+	position:absolute;
+	top:300px;
+	
+	margin-left:-400px;
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:80px;
+	font-weight:700;
+	
+	color:#fff;
+}
+	
+.free_info{ /* font style , position */
+
+    position:absolute;
+	top:400px; /* 20 px blank */
+	
+	margin-left:-200px;
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:19px;
+	font-weight:500;
+	
+	color:#fff;
+}	
+
+.free_button{
+
+    position:absolute;
+	top:450px; /* 20 px blank */
+	
+	margin-left:-150px;
+	
+	width:250px;
+	height:40px;
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:16px;
+	font-weight:600;
+	
+	color:#fff;
+     
+	border-radius:20px;	
+	border-style:solid;
+    border-color:#1DB954;
+    border-width:1px;
+
+    background-color:#1DB954;	
+}
+
+.free_button:hover{
+	
+    background-color:#1ED760;
+}
+
+/* ---------- */
+
+.section_length_2{ /* section setting */
+	
+	height:590px;/*565px*/
+	
+	padding-left:50%; /* !important */
+	padding-top:20px;
+	padding-bottom:20px;
+	
+	background-color:#fff;
+}
+
+.hulu_div{ /* position */
+	
+	position:absolute;
+	top:800px; /* 20 px blank */
+	
+	margin-left:-600px;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+	width:1200px;
+	height:500px; /*480px*/
+	
+	background-color:#FECBD1; /* ! important */
+}
+
+
+.info_3{ /* Spotify Premium now comes with Hulu on us */
+	
+	position:absolute;
+	top:130px; /* 20 px blank */
+	
+	margin-left:150px;
+	
+	text-align:center;
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:30px;
+	font-weight:700;
+	
+	color:black;
+	
+}
+
+.try{ /* Try it free for 30 days. */
+	
+	position:absolute;
+	top:210px; 
+	
+	margin-left:230px;
+	
+	text-align:center;
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:19px;
+	font-weight:540;
+	
+	color:black;	
+}
+
+#learn_button{
+	
+	position:absolute;
+	top:250px; 
+	
+	width:216px; 
+	height:48px;
+	
+	margin-left:210px;
+	
+	border-color:#FB2F47;
+	background-color:#FB2F47;
+	
+}
+
+#price_info{
+	
+	position:absolute;
+	top:315px; /* 20 px blank */
+	
+	width:600px;
+	height:300px;
+	
+	margin-left:50px;
+	
+	font-size:13px;
+	font-weight:400;	
+}
+
+.img_pos{
+	
+	margin-left:65%;
+}
+	
+/* ---------- */
+
+
+.footer_length{
+	
+	height:530px;
+	
+	padding-left:50%; /* !important */
+
+	background-color:black;
+}
+
+
+.footer_img{
+	
+	position:absolute;
+	top:1480px;
+
+	margin-left:-550px;
+	
+}
+
+.footer_menu{
+	
+	position:absolute;
+	top:1480px;	
+}
+
+.blank_1{
+	
+	color:#919496;
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:15px;
+	font-weight:540;
+	
+	text-decoration:none;
+}
+
+.blank_2{
+	
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:15px;
+	font-weight:700;
+	
+	margin-top:25px;
+	color:white;
+	text-decoration:none;
+}
+
+.blank_2:hover{
+	
+	 color:#1DB954;
+}
+
+#Col_1{
+	
+	margin-left:-250px;
+}
+
+#Col_2{
+	
+	margin-left:-50px;
+}
+
+#Col_3{
+	
+	margin-left:150px;
+}
+
+/* ---------- */
+
+.social_circle{
+	
+	position:absolute;
+	top:1480px;
+	
+	width:60px;
+	height:60px;
+	
+	background-color:#222326;
+	
+	border-radius:30px;
+	
+	float:left;
+	
+	color:white;
+}
+
+#circle_1{
+	
+   margin-left:420px;   
+}
+
+#circle_2{
+	
+  margin-left:490px;	
+}
+
+#circle_3{
+	
+   margin-left:560px;
+}
+
+#img_icon{
+	
+	font-size:35px;
+	margin-left:15px;
+	margin-top:10px;
+}
+
+#circle_1 #img_icon:hover{
+	
+	color:#1DB954;
+}
+
+#circle_2 #img_icon:hover{
+	
+	color:#1DB954;
+}
+
+#circle_3 #img_icon:hover{
+	
+	color:#1DB954;
+}
+
+.footer_hori_menu{
+	
+	position:absolute;
+	top:1830px;
+	
+	margin-left:-550px;
+}
+
+li{
+	
+	float:left;
+	margin-left:10px;
+	
+	list-style:none;
+	
+	color:#919496;
+	font-family:Circular, Helvetica, Arial, sans-serif;
+	font-size:12px;
+	font-weight:700;
+
+	text-decoration:none;
+}
+li:hover{
+	
+	 color:#1DB954;
+	
+}

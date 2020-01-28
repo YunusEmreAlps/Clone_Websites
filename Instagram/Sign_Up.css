@@ -1,0 +1,318 @@
+.design_problem{ /* body */
+	
+	padding: 0px ;
+	margin : 0px ;
+	
+}
+
+.section_length{
+	
+	height:900px ;
+
+	margin-left: 60% ;
+	
+	background-attachment:fixed ;
+}
+
+.section_length2{
+	
+	padding-left: 40% ;
+	
+	background-attachment:fixed ;
+}
+
+.sign_up_div_length{
+	
+	position:absolute ;
+	top:40px;
+	
+	width:350px;
+	height:540px ;
+	
+	margin-left:-200px;
+	
+	border-style:solid ;
+	border-width:1px;
+	border-color:#e6e6e6;
+
+
+	background-color:white;
+	
+}
+
+.sign_up_div_length2{
+	
+	position:absolute ;
+	top:100px;
+	
+	width:350px;
+	height:600px ;
+	
+	margin-left:-250px;
+	
+	background-color:white;
+	
+}
+
+
+.img_pos{/* instagram logo position */
+	
+	padding-left:75px;
+	
+	margin-top:10px;
+	
+}
+
+.photos{
+	
+	position:absolute ;
+	top:84px;
+	
+	padding-left:148px;
+	
+	margin-top:10px;
+
+}
+
+
+.animation1{
+	
+	animation-name:change;
+	animation-timing-function:ease-in-out;
+	animation-duration:16s;
+	animation-iteration-count:infinite ;
+	animation-direction:alternate;
+	
+}
+
+@keyframes change{
+	
+	25%{opacity:1;}/*4second*/ 
+	50%{opacity:0;} 
+	75%{opacity:0;} 
+	100%{opacity:0;} 
+}
+
+.animation2{
+	
+	animation-name:change;
+	animation-timing-function:ease-in-out;
+	animation-duration:24s;
+	animation-iteration-count:infinite ;
+	animation-direction:alternate;
+}
+
+
+
+@keyframes change{
+	25%{opacity:0;} 
+	50%{opacity:1;} /**/ 
+	75%{opacity:0;} 
+	100%{opacity:0;}	
+	
+}
+
+.animation3{
+	
+	animation-name:change;
+	animation-timing-function:ease-in-out;
+	animation-duration:32s;
+	animation-iteration-count:infinite ;
+	animation-direction:alternate;
+}
+
+
+
+@keyframes change{
+	0%{opacity:0;}
+	25%{opacity:0;} 
+	50%{opacity:0;} 
+	75%{opacity:1;} 
+	100%{opacity:0;} 
+	
+}
+
+
+
+
+.info_article{
+	
+	text-align:center ;
+	
+	margin-top:10px;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:18px;
+	font-weight:600;
+    color:#999;
+}
+
+.log_in_facebook{
+	
+	width:270px;
+	height:30px;
+	
+	color:white;
+		
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:14px;
+	font-weight:600;
+	
+	margin-top:10px ;
+	margin-left:45px;
+	
+	border-style:solid;
+	border-color:#3897f0;
+	border-width:1px;
+	border-radius:5px;
+	
+	background-color:#3897f0;
+}
+
+.face_logo_pos{ /*facebook logo position */
+	
+	position:absolute;
+	top:155px;
+	
+	margin-left:-235px;
+	
+}
+
+.or{
+	
+	margin-top:10px;
+	margin-bottom:10px;
+	
+	text-align:center ;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:15px;
+	font-weight:600;
+    color:#999;
+}
+
+.personal_input{/* E-mail , Name , Username Password */
+	
+	width:270px;
+	height:30px;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:12px;
+	font-weight:200;
+    color:#999;
+	
+	border-style:solid;
+	border-color:#fafafa;
+	border-width:1px;
+	border-radius:5px;
+	
+	margin-left:45px;
+	margin-bottom:5px;
+	margin-top:5px;
+	
+	background-color:#fafafa;
+	text-indent:10px;
+}
+
+.last_info{
+	
+	text-align:center ;
+	
+	margin-top:10px;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:13px;
+	font-weight:600;
+    color:#999;
+	
+}
+
+.have_acc_div{
+	
+	position:absolute ;
+	top:595px;
+	
+	width:350px;
+	height:80px ;
+	
+	margin-left:-200px;
+	
+	border-style:solid ;
+	border-width:1px;
+	border-color:#e6e6e6;
+
+
+	background-color:white;
+	
+}
+
+.info_article2{
+	
+     margin-top:25px;
+	
+	text-align:center ;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:15px;
+	font-weight:400;
+    color:black;
+	
+}
+
+.log_in{
+	
+	color:#3897f0;
+	
+}
+
+.download_div{
+	
+	position:absolute ;
+	top:710px;
+	
+	width:550px;
+	height:100px ;
+	
+	margin-left:-280px;
+	
+	background-color:white;
+	
+}
+
+.get_app{
+	
+	 margin-top:10px;
+	 
+	 text-align:center;
+	
+	 font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	 font-size:15px;
+	 font-weight:400;
+     color:black;
+}
+
+.dow_img_pos{
+	
+	margin-left:50px;
+	margin-top:15px;
+	
+}
+
+.footer{
+	
+	 
+	margin-left:370px;
+}
+
+.text_deco{
+	
+	text-decoration:none ;
+	
+	margin-left:10px;
+	
+	font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+	font-size:15px;
+	font-weight:400;
+    color:#003569;
+	
+}

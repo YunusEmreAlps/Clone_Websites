@@ -1,0 +1,279 @@
+.design_problem{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+.header_length{ /* Nav Block Settings */
+    
+    /*width:100%;*/
+    height:100px;
+  
+    background-color:#3b5998;
+	padding-left:40%;
+	background-attachment:fixed; 
+}
+
+.section_length{ /* Nav Block Settings */
+    
+    /*width:100%;*/
+    height:600px;
+    background:-webkit-linear-gradient(white,#D3D8E8); 
+	padding-left:40%; 
+    background-attachment:fixed;
+}
+
+
+.facebook{
+    
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 40px ;
+    font-weight: 700;
+    color:white ;
+	
+    margin-left:-450px; /*150px */
+	padding:40px;
+}
+
+
+
+.log_in_button{
+	
+	position:absolute ;
+	top:40px;
+	
+	width :180px ; 
+	height:30px ;
+	
+	margin-left:620px; /*1320px */
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+	font-size: 13px ;
+	font-weight:700; 
+	color:white ;
+	
+	border-style:solid;
+	border-color:#4267b2;
+	background-color:#4267b2;
+
+}
+
+.forgot{
+	
+   position:absolute;
+   top:80px;
+   
+   font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+   font-size: 15px ;
+   font-weight:700;    
+   color:#4C92D0;    
+   
+   margin-left:210px;/*1110px*/
+   
+   text-decoration:underline;
+	
+}
+
+.Account_head{
+    
+    font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    
+	margin-left:100px;
+   	
+	margin-bottom:15px;
+}
+
+
+.free_head{
+    
+    font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size:25px;
+    font-weight: 100;
+    color:#4b4f56;
+	
+	margin-left:100px;
+}
+
+.insta_pos{
+	
+	position:absolute;
+	top:140px;
+	
+	margin-left:-15px;
+}
+
+.name_box{
+    
+    width:200px;
+    height:39px;
+    
+    margin-right:5px; 
+    margin-bottom:15px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size:20px;
+    font-weight: 100;
+    
+    border-radius:5px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#D3D8E8; 
+	text-indent:10px;
+}
+
+.phone_box{
+    
+    width:415px;
+    height:39px;
+    
+    margin-bottom: 15px;
+    margin-right: 5px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size:20px;
+    font-weight: 100;
+    
+    border-radius:5px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#D3D8E8; 
+    text-indent:10px;
+}
+
+.password_box{
+    
+    width:415px;
+    height: 39px;
+    
+    margin-bottom: 15px;
+    margin-right: 5px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size:20px;
+    font-weight: 100;
+    
+    border-radius:5px;
+	border-style:solid;
+	border-width:1px;
+	border-color:#D3D8E8; 
+    text-indent:10px;    
+}
+
+.birthday_head{
+    
+    font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size:20px;
+    font-weight: 100;
+    color:#4b4f56;
+}
+
+.birtday_box{
+    
+    width:60px;
+    height: 30px
+    
+}
+
+.gender_radio{
+    
+  font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+  font-size: 20px ;
+  font-weight: 100;
+  color:#4b4f56;  
+  margin:15px;    
+}
+
+.Sign_up_button{
+    
+    width: 200px;
+    height: 40px;
+    font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 20px ;
+    font-weight: 100;
+    color:white ;
+    background-color:forestgreen ;
+    
+}
+
+.language{
+	
+	padding-left:50%;
+	
+	padding-bottom:40px;
+	
+	margin-top:60px;
+	margin-left:-650px;/*300px*/
+	margin-bottom:40px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 13px ;
+    font-weight: 100;
+	
+	
+}
+
+.blank_1{
+	
+	padding-left:4px;
+	color:#385898;
+}
+
+.plus{
+	
+	position:absolute ;
+	top:790px; 
+    	
+	margin-left:720px;
+
+	width:40px;
+	height:25px;
+	
+	background-color:white;
+	
+	border-style:solid ;
+	border-width:1px;
+	border-color:#ccc; 
+	
+    font-size: 20px ;
+    font-weight:500;
+	
+}
+.foot_hori{
+	
+	margin-top:20px;
+	margin-left:0px;
+	margin-bottom:20px;
+	
+	padding-left:500px;
+	
+	width:30% ;
+}
+
+.foot{
+	
+	position:absolute;
+    top:840px;
+	
+	padding-left:50%;
+	padding-bottom:40px;
+	
+	margin-left:-665px;/*300px*/
+	margin-bottom:40px;
+	
+}
+
+.blank{
+		
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 13px ;
+    font-weight: 100;	
+		
+	padding-left:20px;
+	margin-bottom:10px;
+	
+	color:#385898;
+}
+
+
