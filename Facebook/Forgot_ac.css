@@ -1,0 +1,327 @@
+.design_problem{
+    
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.header_length{ /* Nav Block Settings */
+    
+    /*width: 100%;*/
+    height: 100px;
+	
+	padding-left:50%;
+    background-color:#3b5998;
+    
+}
+
+.section_length{ /* Nav Block Settings */
+    
+   /* width:100%;*/
+    height:350px;
+    background:-webkit-linear-gradient(white, #D3D8E8); 
+	padding-left:50%; 
+    background-attachment: fixed ;
+}
+
+
+.facebook{
+    
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 40px ;
+    font-weight: 700;
+    color:white ;
+	
+	margin-left:-650px;
+	padding:40px;
+}
+
+.head_email{
+ 
+  position:absolute ;
+  top:40px;   
+  
+  width:200px;
+  height:24px;
+  
+  border-style:solid;
+  border-width:1px;
+  border-color:#e6e6e6;  
+   
+   
+  margin-right:10px;  
+  margin-left : 0px;  	
+}
+
+.head_password{
+	
+  position:absolute ;
+  top:40px;   
+  
+  width:200px;
+  height:24px;
+  
+  border-style:solid;
+  border-width:1px;
+  border-color:#e6e6e6;
+    
+  margin-left : 210px;  
+	
+}
+
+.head_email_label{
+	
+	position:absolute ;
+	top:20px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif ;
+    font-size:13px;	
+	font-weight:500;
+	color:white ;
+	
+	margin-left:0px;
+}
+
+.head_password_label{
+    
+     position:absolute;
+     top:20px;
+
+     font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+     font-size:13px;
+     font-weight:500;
+     color:white;	 
+	 
+	 margin-left:210px;
+	
+}
+
+.log_in_button{
+	
+	position:absolute ;
+	top:40px;
+	
+	width :60px ; 
+	height:30px ;
+	
+	margin-left:420px ;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+	font-size: 15px ;
+	font-weight:700; 
+	color:white;
+	
+	border-style:solid;
+	border-color:#4267b2;
+	background-color:#4267b2;
+}
+
+.forgot{
+	
+   position:absolute;
+   top:80px;
+   
+   text-decoration:none;
+   
+   font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+   font-size: 12px ;
+   font-weight:500;    
+   color:#9cb4d8;    
+   
+   margin-left:215px;/*1110px*/
+	
+}
+.pos_div{
+	
+	position:absolute;
+	top:200px;
+	
+	margin-left:-400px;
+	
+	width:550px;
+	height:189px;
+	
+	background-color:white;
+	
+	border-style:solid;
+	border-color:#ccc;
+    border-width:1px;
+	
+}
+.account_head{
+	
+	padding-top:20px;
+	padding-left:20px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+	font-size:17px;
+	font-weight:700;
+	
+}
+
+.info{
+	
+	margin-left:100px;
+	padding: 5px 10px 10px 0px ; /* top right bottom left */
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+	font-size:13px;
+	font-weight:500;
+	
+}
+.hori{
+  opacity:0.7;
+  width:95%;
+   
+  border-color:#f2f2f2;   
+}
+
+.phone_box{
+    
+    width:255px;
+    height:20px;
+    
+	margin-left:100px;
+    margin-bottom:15px;
+    margin-right: 5px;	
+	
+	border-style:solid;
+	border-color:#ccc;
+    border-width:1px;
+	
+	text-indent:10px;
+}
+
+.search_button{
+	
+	width :60px ; 
+	height:30px ;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+	font-size: 13px ;
+	font-weight:700; 
+	color:white;
+	
+	border-style:solid;
+	border-width:1px;
+	border-color:#4267b2;
+	
+	background-color:#4267b2;
+
+}
+
+.cancel_button{
+
+	width :60px ; 
+	height:30px ;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif  ;
+	font-size: 13px ;
+	font-weight:700; 
+	color:#4267B2;
+
+    border-style:solid;
+	border-width:1px;
+
+	background-color:white;
+
+}
+
+.div_2{
+	
+	width:550px;
+	height:45px; 
+	
+	background-color:#f2f2f2;
+
+    border-top-style:solid;
+    border-top-color:#ccc;
+    border-top-width:1px;	
+}
+
+
+.forgot_div_color_2{
+	
+	padding-top:7px;
+	padding-bottom:7px;
+	margin-left:410px;	
+}
+
+.language{
+	
+	padding-left:50%;
+	
+	padding-bottom:40px;
+	
+	margin-top:208px;
+	margin-left:-650px;/*300px*/
+	margin-bottom:40px;
+	
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 13px ;
+    font-weight: 100;
+}
+
+.blank_1{
+	
+	color:#385898;
+	padding-left:4px;
+}
+
+.plus{
+	
+	position:absolute ;
+	top:652px; 
+    	
+	margin-left:720px;
+
+	width:40px;
+	height:25px;
+	
+	background-color:white;
+	
+	border-style:solid ;
+	border-width:1px;
+	border-color:#ccc; 
+	
+    font-size: 20px ;
+    font-weight:500;
+	
+}
+.foot_hori{
+	
+	margin-top:20px;
+	margin-left:0px;
+	margin-bottom:20px;
+	
+	padding-left:500px;
+	
+	width:30% ;
+}
+
+.foot{
+	
+	position:absolute;
+    top:705px;
+	
+	padding-left:50%;
+	padding-bottom:40px;
+	
+	margin-left:-665px;/*300px*/
+	margin-bottom:40px;
+	
+}
+
+.blank{
+	
+    color:#385898;	
+		
+	font-family:'Freight Sans', Helvetica, Arial, sans-serif;
+    font-size: 13px ;
+    font-weight: 100;	
+		
+	padding-left:20px;
+	margin-bottom:10px;
+}
+
+
